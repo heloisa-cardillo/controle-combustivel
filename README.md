@@ -191,7 +191,7 @@ test/
 
 <br>
 
-Requisitos: Flutter instalado e um celular Android com depuração USB ativada (ou um emulador).
+Requisitos: Flutter 3.44 ou mais novo (Dart 3.13) e um celular Android com depuração USB ativada (ou um emulador).
 
 ```bash
 git clone https://github.com/heloisa-cardillo/controle-combustivel.git
